@@ -8,7 +8,7 @@ and case studies in which they can be applied to.
 
 - the Nano degree Consits of 4 courses with 4 projects and CAPSTONE PROJECT: Inventory Monitoring at Distribution Centers
 
-[Course 1: Introduction to Machine Learning](/intorduction to machine learning)
+[Course 1: Introduction to Machine Learning](/intorduction-to-machine-learning)
 -  start learning what machine learning is by being introduced to the high level concepts
 through AWS SageMaker. You’ll begin by using SageMaker Studio to perform exploratory data analysis.
 Know how and when to apply the basic concepts of machine learning to real world scenarios. Create
